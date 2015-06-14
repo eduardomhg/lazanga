@@ -1,0 +1,2 @@
+C:\Documents and Settings\damianc\Desktop\downloads\code\SMOCG_Upgraded\SMOCG\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\damianc\Desktop\downloads\code\SMOCG_Upgraded\SMOCG\Content\obj\x86\Release\ResolveAssemblyReference.cache

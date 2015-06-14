@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chat", "chat\chat.vcproj", "{92B76EAE-DA0C-4DEC-8B53-1E16E4279790}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "chat setup", "chat setup\chat setup.vdproj", "{188F7BA0-4367-4FA6-9D5E-87BB0E484907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92B76EAE-DA0C-4DEC-8B53-1E16E4279790}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92B76EAE-DA0C-4DEC-8B53-1E16E4279790}.Debug|Win32.Build.0 = Debug|Win32
+		{92B76EAE-DA0C-4DEC-8B53-1E16E4279790}.Release|Win32.ActiveCfg = Release|Win32
+		{92B76EAE-DA0C-4DEC-8B53-1E16E4279790}.Release|Win32.Build.0 = Release|Win32
+		{188F7BA0-4367-4FA6-9D5E-87BB0E484907}.Debug|Win32.ActiveCfg = Debug
+		{188F7BA0-4367-4FA6-9D5E-87BB0E484907}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

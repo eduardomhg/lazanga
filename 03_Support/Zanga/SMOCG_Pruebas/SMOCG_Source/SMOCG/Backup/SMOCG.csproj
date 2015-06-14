@@ -1,0 +1,222 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{28C7BDE6-D864-4CFD-AF6E-8DEFE72C6CE0}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SMOCG</RootNamespace>
+    <AssemblyName>SMOCG</AssemblyName>
+    <XnaFrameworkVersion>v2.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>C72B0600A9574A93003F200EB3D6C6214BE2DA75</ManifestCertificateThumbprint>
+    <ManifestKeyFile>SMOCG_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <Thumbnail>GameThumbnail.png</Thumbnail>
+    <XnaCrossPlatformGroupID>{6dee5e52-82a6-436c-b4f3-08db0fb97988}</XnaCrossPlatformGroupID>
+    <PublishUrl>C:\Documents and Settings\Damian Connolly\Desktop\SMOCG Install\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <SupportUrl>http://divillysausages.com/contact</SupportUrl>
+    <TargetCulture>en</TargetCulture>
+    <ProductName>Super Multiplayer Online Card Game</ProductName>
+    <PublisherName>divillysausages</PublisherName>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnimatedTexture.cs">
+      <Name>AnimatedTexture</Name>
+    </Compile>
+    <Compile Include="Cameras\BasicCamera.cs">
+      <Name>BasicCamera</Name>
+    </Compile>
+    <Compile Include="Cameras\FreeCamera.cs">
+      <Name>FreeCamera</Name>
+    </Compile>
+    <Compile Include="Card.cs">
+      <Name>Card</Name>
+    </Compile>
+    <Compile Include="CardGameScene.cs">
+      <Name>CardGameScene</Name>
+    </Compile>
+    <Compile Include="CollisionHelper.cs">
+      <Name>CollisionHelper</Name>
+    </Compile>
+    <Compile Include="CustomisePlayerScene.cs">
+      <Name>CustomisePlayerScene</Name>
+    </Compile>
+    <Compile Include="DebugLine.cs" />
+    <Compile Include="Deck.cs">
+      <Name>Deck</Name>
+    </Compile>
+    <Compile Include="Enums.cs">
+      <Name>Enums</Name>
+    </Compile>
+    <Compile Include="Font.cs">
+      <Name>Font</Name>
+    </Compile>
+    <Compile Include="GameObject.cs">
+      <Name>GameObject</Name>
+    </Compile>
+    <Compile Include="GUI\GUIBackground.cs">
+      <Name>GUIBackground</Name>
+    </Compile>
+    <Compile Include="GUI\GUIButton.cs">
+      <Name>GUIButton</Name>
+    </Compile>
+    <Compile Include="GUI\GUIItem.cs">
+      <Name>GUIItem</Name>
+    </Compile>
+    <Compile Include="GUI\GUITextInput.cs">
+      <Name>GUITextInput</Name>
+    </Compile>
+    <Compile Include="InGameHUD.cs">
+      <Name>InGameHUD</Name>
+    </Compile>
+    <Compile Include="InputHelper.cs">
+      <Name>InputHelper</Name>
+    </Compile>
+    <Compile Include="JoinGamePopup.cs">
+      <Name>JoinGamePopup</Name>
+    </Compile>
+    <Compile Include="MainMenuScreen.cs">
+      <Name>MainMenuScreen</Name>
+    </Compile>
+    <Compile Include="NetConnection.cs">
+      <Name>NetConnection</Name>
+    </Compile>
+    <Compile Include="NetManager.cs">
+      <Name>NetManager</Name>
+    </Compile>
+    <Compile Include="Player.cs">
+      <Name>Player</Name>
+    </Compile>
+    <Compile Include="PlayerShape.cs">
+      <Name>PlayerShape</Name>
+    </Compile>
+    <Compile Include="PlayHelper.cs">
+      <Name>PlayHelper</Name>
+    </Compile>
+    <Compile Include="SMOCGMouse.cs">
+      <Name>SMOCGMouse</Name>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Program.cs">
+      <Name>Program</Name>
+    </Compile>
+    <Compile Include="Scene.cs">
+      <Name>Scene</Name>
+    </Compile>
+    <Compile Include="Settings\SMOCGSettings.cs">
+      <Name>SMOCGSettings</Name>
+    </Compile>
+    <Compile Include="Shape.cs">
+      <Name>Shape</Name>
+    </Compile>
+    <Compile Include="SMOCGGame.cs">
+      <Name>SMOCGGame</Name>
+    </Compile>
+    <Compile Include="SplashScreen.cs">
+      <Name>SplashScreen</Name>
+    </Compile>
+    <Compile Include="Stool.cs">
+      <Name>Stool</Name>
+    </Compile>
+    <Compile Include="Table.cs">
+      <Name>Table</Name>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.ico">
+      <Name>Game</Name>
+    </Content>
+    <Content Include="GameThumbnail.png">
+    </Content>
+    <Content Include="Settings\settings.xml">
+      <Name>settings</Name>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SMOCG_TemporaryKey.pfx">
+      <Name>SMOCG_TemporaryKey</Name>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <NestedContentProject Include="Content\Content.contentproj">
+      <Project>{edf8947c-a9cc-42f0-8d29-21b84dae0b08}</Project>
+      <Visible>False</Visible>
+    </NestedContentProject>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\v2.0\Microsoft.Xna.GameStudio.Common.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\v2.0\Microsoft.Xna.GameStudio.NestedContent.targets" />
+</Project>

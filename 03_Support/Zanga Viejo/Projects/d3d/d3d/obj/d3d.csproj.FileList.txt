@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\d3d.Properties.Resources.resources
+obj\Debug\d3d.csproj.GenerateResource.Cache
+bin\Debug\d3d.exe
+bin\Debug\d3d.pdb
+obj\Debug\d3d.exe
+obj\Debug\d3d.pdb

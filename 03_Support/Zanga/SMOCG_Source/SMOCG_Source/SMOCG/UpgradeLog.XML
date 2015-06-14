@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SMOCG">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\SMOCG.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\SMOCG.suo">
+</Property><Property Name="Date" Value="sábado, 11 de abril de 2009">
+</Property><Property Name="Time" Value="16:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SMOCG.sln" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\SMOCG.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SMOCG.suo" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\SMOCG.suo">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="SMOCG.csproj" Description="Upgraded XNA Game Studio nested content projects.">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="SMOCG.csproj" Description="Upgraded XNA Game Studio project.">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="SMOCG.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\SMOCG.csproj">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="SMOCG.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\SMOCG.csproj.user">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="AnimatedTexture.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\AnimatedTexture.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Cameras\BasicCamera.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Cameras\BasicCamera.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Cameras\FreeCamera.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Cameras\FreeCamera.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Card.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Card.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="CardGameScene.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\CardGameScene.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="CollisionHelper.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\CollisionHelper.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="CustomisePlayerScene.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\CustomisePlayerScene.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="DebugLine.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\DebugLine.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Deck.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Deck.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Enums.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Enums.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Font.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Font.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="GameObject.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\GameObject.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="GUI\GUIBackground.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\GUI\GUIBackground.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="GUI\GUIButton.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\GUI\GUIButton.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="GUI\GUIItem.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\GUI\GUIItem.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="GUI\GUITextInput.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\GUI\GUITextInput.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="InGameHUD.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\InGameHUD.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="InputHelper.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\InputHelper.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="JoinGamePopup.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\JoinGamePopup.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="MainMenuScreen.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\MainMenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="NetConnection.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\NetConnection.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="NetManager.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\NetManager.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Player.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Player.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="PlayerShape.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\PlayerShape.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="PlayHelper.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\PlayHelper.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="SMOCGMouse.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\SMOCGMouse.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Program.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Scene.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Scene.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Settings\SMOCGSettings.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Settings\SMOCGSettings.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Shape.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Shape.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="SMOCGGame.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\SMOCGGame.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="SplashScreen.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\SplashScreen.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Stool.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Stool.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Table.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Table.cs">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="SMOCG_TemporaryKey.pfx" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\SMOCG_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Game.ico" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Game.ico">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="GameThumbnail.png" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="Settings\settings.xml" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\Settings\settings.xml">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="SMOCG.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SMOCG" Source="SMOCG.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="TrianglePickingPipeline" Source="..\TrianglePickingPipeline\TrianglePickingPipeline.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="TrianglePickingPipeline" Source="..\TrianglePickingPipeline\TrianglePickingPipeline.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\TrianglePickingPipeline\TrianglePickingPipeline.csproj">
+</Event><Event ErrorLevel="0" Project="TrianglePickingPipeline" Source="..\TrianglePickingPipeline\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\TrianglePickingPipeline\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TrianglePickingPipeline" Source="..\TrianglePickingPipeline\TrianglePickingProcessor.cs" Description="File successfully backed up as C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Backup\TrianglePickingPipeline\TrianglePickingProcessor.cs">
+</Event><Event ErrorLevel="0" Project="TrianglePickingPipeline" Source="..\TrianglePickingPipeline\TrianglePickingPipeline.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TrianglePickingPipeline" Source="..\TrianglePickingPipeline\TrianglePickingPipeline.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SMOCG.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SMOCG.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="SMOCG.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SMOCG" Source="SMOCG.csproj" Description="Upgraded XNA Framework References.">
+</Event><Event ErrorLevel="0" Project="Content" Source="arrow.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="card.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="face.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="hair_spikes.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="hand.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="stool.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="table.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="tableFocus.FBX" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="flashingTextCursor.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="mousePointer.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="mousePointerRed.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="AceOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="AceOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="AceOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="AceOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="EightOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="EightOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="EightOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="EightOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="FiveOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="FiveOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="FiveOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="FiveOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="FourOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="FourOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="FourOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="FourOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="JackOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="JackOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="JackOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="JackOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="KingOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="KingOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="KingOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="KingOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="NineOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="NineOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="NineOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="NineOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="QueenOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="QueenOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="QueenOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="QueenOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SevenOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SevenOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SevenOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SevenOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SixOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SixOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SixOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SixOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="TenOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="TenOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="TenOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="TenOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="ThreeOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="ThreeOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="ThreeOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="ThreeOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="TwoOfClubs.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="TwoOfDiamonds.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="TwoOfHearts.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="TwoOfSpades.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="lettersLarge.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="lettersSmall.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="lettersSmallest.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="arrangeCards_button.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="chatTextBoxBg.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="connect_button.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="customisePlayer.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="deal_button.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="exit_button.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="ipTextBoxBg.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="joinGameBg.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="joinLanGame.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="left_arrow_button.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="pickup_button.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="ready_button.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="resetGame_button.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="right_arrow_button.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="save_button.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="selectSame_button.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="startLanGame.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="textBoxBg.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="base_hud.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="base_hud_bg.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="customiseBg.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="log_hud.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="playIndicator.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="cards_small.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="darkWood.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="lightWood.JPG" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="smileyFace.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="mainMenuScreen.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="splashScreen.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="TrianglePickingPipeline" Source="..\TrianglePickingPipeline\TrianglePickingPipeline.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TrianglePickingPipeline" Source="..\TrianglePickingPipeline\TrianglePickingPipeline.csproj" Description="Upgraded XNA Framework Content Pipeline References.">
+</Event><Event ErrorLevel="0" Project="TrianglePickingPipeline" Source="..\TrianglePickingPipeline\TrianglePickingPipeline.csproj" Description="Upgraded XNA Framework References.">
+</Event></UpgradeLog>

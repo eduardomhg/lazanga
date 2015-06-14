@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMOCG", "SMOCG.csproj", "{28C7BDE6-D864-4CFD-AF6E-8DEFE72C6CE0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{00D00898-1488-4A21-8CEC-5B1F1E4D5535} = {00D00898-1488-4A21-8CEC-5B1F1E4D5535}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianglePickingPipeline", "..\TrianglePickingPipeline\TrianglePickingPipeline.csproj", "{00D00898-1488-4A21-8CEC-5B1F1E4D5535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|x86 = Release|x86
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28C7BDE6-D864-4CFD-AF6E-8DEFE72C6CE0}.Debug|x86.ActiveCfg = Debug|x86
+		{28C7BDE6-D864-4CFD-AF6E-8DEFE72C6CE0}.Debug|x86.Build.0 = Debug|x86
+		{28C7BDE6-D864-4CFD-AF6E-8DEFE72C6CE0}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{28C7BDE6-D864-4CFD-AF6E-8DEFE72C6CE0}.Release|x86.ActiveCfg = Release|x86
+		{28C7BDE6-D864-4CFD-AF6E-8DEFE72C6CE0}.Release|x86.Build.0 = Release|x86
+		{28C7BDE6-D864-4CFD-AF6E-8DEFE72C6CE0}.Release|Xbox 360.ActiveCfg = Release|x86
+		{00D00898-1488-4A21-8CEC-5B1F1E4D5535}.Debug|x86.ActiveCfg = Debug|x86
+		{00D00898-1488-4A21-8CEC-5B1F1E4D5535}.Debug|x86.Build.0 = Debug|x86
+		{00D00898-1488-4A21-8CEC-5B1F1E4D5535}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{00D00898-1488-4A21-8CEC-5B1F1E4D5535}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{00D00898-1488-4A21-8CEC-5B1F1E4D5535}.Release|x86.ActiveCfg = Release|x86
+		{00D00898-1488-4A21-8CEC-5B1F1E4D5535}.Release|x86.Build.0 = Release|x86
+		{00D00898-1488-4A21-8CEC-5B1F1E4D5535}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{00D00898-1488-4A21-8CEC-5B1F1E4D5535}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{EDF8947C-A9CC-42F0-8D29-21B84DAE0B08}.Debug|x86.ActiveCfg = Debug|x86
+		{EDF8947C-A9CC-42F0-8D29-21B84DAE0B08}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{EDF8947C-A9CC-42F0-8D29-21B84DAE0B08}.Release|x86.ActiveCfg = Release|x86
+		{EDF8947C-A9CC-42F0-8D29-21B84DAE0B08}.Release|Xbox 360.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

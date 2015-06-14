@@ -1,0 +1,988 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\SplashScreens\splashScreen.jpg</Source>
+      <Name>Textures\SplashScreens\splashScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\SplashScreens\splashScreen.xnb</Output>
+      <Time>2007-08-04T14:54:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\AnimatedTextures\mousePointer.tga</Source>
+      <Name>Textures\AnimatedTextures\mousePointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\AnimatedTextures\mousePointer.xnb</Output>
+      <Time>2007-08-03T15:10:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\AnimatedTextures\mousePointerRed.tga</Source>
+      <Name>Textures\AnimatedTextures\mousePointerRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\AnimatedTextures\mousePointerRed.xnb</Output>
+      <Time>2007-08-03T22:24:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Fonts\lettersLarge.tga</Source>
+      <Name>Textures\Fonts\lettersLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Fonts\lettersLarge.xnb</Output>
+      <Time>2007-08-04T15:11:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Fonts\lettersSmall.tga</Source>
+      <Name>Textures\Fonts\lettersSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Fonts\lettersSmall.xnb</Output>
+      <Time>2007-09-13T05:52:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\AnimatedTextures\flashingTextCursor.tga</Source>
+      <Name>Textures\AnimatedTextures\flashingTextCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\AnimatedTextures\flashingTextCursor.xnb</Output>
+      <Time>2007-08-05T15:18:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\textBoxBg.jpg</Source>
+      <Name>Textures\GUI\textBoxBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\textBoxBg.xnb</Output>
+      <Time>2007-08-05T15:54:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Models\darkWood.jpg</Source>
+      <Name>Textures\Models\darkWood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Models\darkWood.xnb</Output>
+      <Time>1997-07-21T18:08:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Models\lightWood.JPG</Source>
+      <Name>Textures\Models\lightWood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Models\lightWood.xnb</Output>
+      <Time>2007-08-09T16:43:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\smileyFace.jpg</Source>
+      <Name>Textures\Player\smileyFace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Player\smileyFace.xnb</Output>
+      <Time>2007-08-14T14:07:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Models\cards_small.jpg</Source>
+      <Name>Textures\Models\cards_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Models\cards_small.xnb</Output>
+      <Time>2007-08-16T15:03:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\AceOfClubs.jpg</Source>
+      <Name>Textures\Cards\AceOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\AceOfClubs.xnb</Output>
+      <Time>2007-08-16T15:44:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\AceOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\AceOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\AceOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:49:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\AceOfHearts.jpg</Source>
+      <Name>Textures\Cards\AceOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\AceOfHearts.xnb</Output>
+      <Time>2007-08-16T15:52:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\AceOfSpades.jpg</Source>
+      <Name>Textures\Cards\AceOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\AceOfSpades.xnb</Output>
+      <Time>2007-08-16T15:56:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\EightOfClubs.jpg</Source>
+      <Name>Textures\Cards\EightOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\EightOfClubs.xnb</Output>
+      <Time>2007-08-16T15:42:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\EightOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\EightOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\EightOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:47:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\EightOfHearts.jpg</Source>
+      <Name>Textures\Cards\EightOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\EightOfHearts.xnb</Output>
+      <Time>2007-08-16T15:51:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\EightOfSpades.jpg</Source>
+      <Name>Textures\Cards\EightOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\EightOfSpades.xnb</Output>
+      <Time>2007-08-16T15:54:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\FiveOfClubs.jpg</Source>
+      <Name>Textures\Cards\FiveOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FiveOfClubs.xnb</Output>
+      <Time>2007-08-16T15:41:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\FiveOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\FiveOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FiveOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:46:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\FiveOfHearts.jpg</Source>
+      <Name>Textures\Cards\FiveOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FiveOfHearts.xnb</Output>
+      <Time>2007-08-16T15:50:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\FiveOfSpades.jpg</Source>
+      <Name>Textures\Cards\FiveOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FiveOfSpades.xnb</Output>
+      <Time>2007-08-16T15:53:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\FourOfClubs.jpg</Source>
+      <Name>Textures\Cards\FourOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FourOfClubs.xnb</Output>
+      <Time>2007-08-16T15:41:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\FourOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\FourOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FourOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:46:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\FourOfHearts.jpg</Source>
+      <Name>Textures\Cards\FourOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FourOfHearts.xnb</Output>
+      <Time>2007-08-16T15:50:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\FourOfSpades.jpg</Source>
+      <Name>Textures\Cards\FourOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FourOfSpades.xnb</Output>
+      <Time>2007-08-16T15:53:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\JackOfClubs.jpg</Source>
+      <Name>Textures\Cards\JackOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\JackOfClubs.xnb</Output>
+      <Time>2007-08-16T15:43:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\JackOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\JackOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\JackOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:48:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\JackOfHearts.jpg</Source>
+      <Name>Textures\Cards\JackOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\JackOfHearts.xnb</Output>
+      <Time>2007-08-16T15:52:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\JackOfSpades.jpg</Source>
+      <Name>Textures\Cards\JackOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\JackOfSpades.xnb</Output>
+      <Time>2007-08-16T15:55:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\KingOfClubs.jpg</Source>
+      <Name>Textures\Cards\KingOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\KingOfClubs.xnb</Output>
+      <Time>2007-08-16T15:44:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\KingOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\KingOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\KingOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:48:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\KingOfHearts.jpg</Source>
+      <Name>Textures\Cards\KingOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\KingOfHearts.xnb</Output>
+      <Time>2007-08-16T15:52:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\KingOfSpades.jpg</Source>
+      <Name>Textures\Cards\KingOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\KingOfSpades.xnb</Output>
+      <Time>2007-08-16T15:55:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\NineOfClubs.jpg</Source>
+      <Name>Textures\Cards\NineOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\NineOfClubs.xnb</Output>
+      <Time>2007-08-16T15:43:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\NineOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\NineOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\NineOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:47:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\NineOfHearts.jpg</Source>
+      <Name>Textures\Cards\NineOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\NineOfHearts.xnb</Output>
+      <Time>2007-08-16T15:51:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\NineOfSpades.jpg</Source>
+      <Name>Textures\Cards\NineOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\NineOfSpades.xnb</Output>
+      <Time>2007-08-16T15:54:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\QueenOfClubs.jpg</Source>
+      <Name>Textures\Cards\QueenOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\QueenOfClubs.xnb</Output>
+      <Time>2007-08-16T15:44:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\QueenOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\QueenOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\QueenOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:48:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\QueenOfHearts.jpg</Source>
+      <Name>Textures\Cards\QueenOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\QueenOfHearts.xnb</Output>
+      <Time>2007-08-16T15:52:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\QueenOfSpades.jpg</Source>
+      <Name>Textures\Cards\QueenOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\QueenOfSpades.xnb</Output>
+      <Time>2007-08-16T15:55:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\SevenOfClubs.jpg</Source>
+      <Name>Textures\Cards\SevenOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SevenOfClubs.xnb</Output>
+      <Time>2007-08-16T15:42:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\SevenOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\SevenOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SevenOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:47:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\SevenOfHearts.jpg</Source>
+      <Name>Textures\Cards\SevenOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SevenOfHearts.xnb</Output>
+      <Time>2007-08-16T15:50:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\SevenOfSpades.jpg</Source>
+      <Name>Textures\Cards\SevenOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SevenOfSpades.xnb</Output>
+      <Time>2007-08-16T15:54:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\SixOfClubs.jpg</Source>
+      <Name>Textures\Cards\SixOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SixOfClubs.xnb</Output>
+      <Time>2007-08-16T15:42:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\SixOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\SixOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SixOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:47:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\SixOfHearts.jpg</Source>
+      <Name>Textures\Cards\SixOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SixOfHearts.xnb</Output>
+      <Time>2007-08-16T15:50:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\SixOfSpades.jpg</Source>
+      <Name>Textures\Cards\SixOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SixOfSpades.xnb</Output>
+      <Time>2007-08-16T15:54:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\TenOfClubs.jpg</Source>
+      <Name>Textures\Cards\TenOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TenOfClubs.xnb</Output>
+      <Time>2007-08-16T15:43:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\TenOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\TenOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TenOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:48:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\TenOfHearts.jpg</Source>
+      <Name>Textures\Cards\TenOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TenOfHearts.xnb</Output>
+      <Time>2007-08-16T15:51:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\TenOfSpades.jpg</Source>
+      <Name>Textures\Cards\TenOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TenOfSpades.xnb</Output>
+      <Time>2007-08-16T15:55:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\ThreeOfClubs.jpg</Source>
+      <Name>Textures\Cards\ThreeOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\ThreeOfClubs.xnb</Output>
+      <Time>2007-08-16T15:40:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\ThreeOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\ThreeOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\ThreeOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:46:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\ThreeOfHearts.jpg</Source>
+      <Name>Textures\Cards\ThreeOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\ThreeOfHearts.xnb</Output>
+      <Time>2007-08-16T15:49:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\ThreeOfSpades.jpg</Source>
+      <Name>Textures\Cards\ThreeOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\ThreeOfSpades.xnb</Output>
+      <Time>2007-08-16T15:53:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\TwoOfClubs.jpg</Source>
+      <Name>Textures\Cards\TwoOfClubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TwoOfClubs.xnb</Output>
+      <Time>2007-08-16T15:40:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\TwoOfDiamonds.jpg</Source>
+      <Name>Textures\Cards\TwoOfDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TwoOfDiamonds.xnb</Output>
+      <Time>2007-08-16T15:45:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\TwoOfHearts.jpg</Source>
+      <Name>Textures\Cards\TwoOfHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TwoOfHearts.xnb</Output>
+      <Time>2007-08-16T15:49:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cards\TwoOfSpades.jpg</Source>
+      <Name>Textures\Cards\TwoOfSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TwoOfSpades.xnb</Output>
+      <Time>2007-08-16T15:53:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\arrangeCards_button.tga</Source>
+      <Name>Textures\GUI\arrangeCards_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\arrangeCards_button.xnb</Output>
+      <Time>2007-09-10T03:01:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\deal_button.tga</Source>
+      <Name>Textures\GUI\deal_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\deal_button.xnb</Output>
+      <Time>2007-09-10T02:52:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\pickup_button.tga</Source>
+      <Name>Textures\GUI\pickup_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\pickup_button.xnb</Output>
+      <Time>2007-09-10T02:55:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\ready_button.tga</Source>
+      <Name>Textures\GUI\ready_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\ready_button.xnb</Output>
+      <Time>2007-09-10T03:04:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\resetGame_button.tga</Source>
+      <Name>Textures\GUI\resetGame_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\resetGame_button.xnb</Output>
+      <Time>2007-09-10T02:58:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\selectSame_button.tga</Source>
+      <Name>Textures\GUI\selectSame_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\selectSame_button.xnb</Output>
+      <Time>2007-09-10T03:06:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\base_hud.tga</Source>
+      <Name>Textures\HUD\base_hud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\base_hud.xnb</Output>
+      <Time>2007-09-10T06:10:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\log_hud.tga</Source>
+      <Name>Textures\HUD\log_hud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\log_hud.xnb</Output>
+      <Time>2007-09-10T03:11:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Fonts\lettersSmallest.tga</Source>
+      <Name>Textures\Fonts\lettersSmallest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Fonts\lettersSmallest.xnb</Output>
+      <Time>2007-09-10T03:23:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\base_hud_bg.tga</Source>
+      <Name>Textures\HUD\base_hud_bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\base_hud_bg.xnb</Output>
+      <Time>2007-09-10T06:45:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SplashScreens\mainMenuScreen.jpg</Source>
+      <Name>Textures\SplashScreens\mainMenuScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\SplashScreens\mainMenuScreen.xnb</Output>
+      <Time>2007-09-13T04:41:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\chatTextBoxBg.jpg</Source>
+      <Name>Textures\GUI\chatTextBoxBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\chatTextBoxBg.xnb</Output>
+      <Time>2007-09-13T19:33:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\ipTextBoxBg.jpg</Source>
+      <Name>Textures\GUI\ipTextBoxBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\ipTextBoxBg.xnb</Output>
+      <Time>2007-09-13T05:58:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\joinLanGame.tga</Source>
+      <Name>Textures\GUI\joinLanGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\joinLanGame.xnb</Output>
+      <Time>2007-09-13T04:47:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\startLanGame.tga</Source>
+      <Name>Textures\GUI\startLanGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\startLanGame.xnb</Output>
+      <Time>2007-09-13T04:44:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\connect_button.tga</Source>
+      <Name>Textures\GUI\connect_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\connect_button.xnb</Output>
+      <Time>2007-09-13T06:25:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\joinGameBg.tga</Source>
+      <Name>Textures\GUI\joinGameBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\joinGameBg.xnb</Output>
+      <Time>2007-09-13T06:23:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\playIndicator.tga</Source>
+      <Name>Textures\HUD\playIndicator</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\playIndicator.xnb</Output>
+      <Time>2007-09-13T21:19:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\customisePlayer.tga</Source>
+      <Name>Textures\GUI\customisePlayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\customisePlayer.xnb</Output>
+      <Time>2007-09-14T13:18:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\exit_button.tga</Source>
+      <Name>Textures\GUI\exit_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\exit_button.xnb</Output>
+      <Time>2007-09-14T12:45:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\left_arrow_button.tga</Source>
+      <Name>Textures\GUI\left_arrow_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\left_arrow_button.xnb</Output>
+      <Time>2007-09-14T12:49:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\right_arrow_button.tga</Source>
+      <Name>Textures\GUI\right_arrow_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\right_arrow_button.xnb</Output>
+      <Time>2007-09-14T12:48:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\save_button.tga</Source>
+      <Name>Textures\GUI\save_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\save_button.xnb</Output>
+      <Time>2007-09-14T12:44:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\customiseBg.tga</Source>
+      <Name>Textures\HUD\customiseBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\customiseBg.xnb</Output>
+      <Time>2007-09-14T12:41:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\face.FBX</Source>
+      <Name>Models\face</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\face.xnb</Output>
+      <Time>2007-08-08T22:07:14+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\face_0.xml</Key>
+        <Value>2009-04-11T16:37:37.515625+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\hair_spikes.FBX</Source>
+      <Name>Models\hair_spikes</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\hair_spikes.xnb</Output>
+      <Time>2007-08-08T22:55:08+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\hair_spikes_0.xml</Key>
+        <Value>2009-04-11T16:37:37.90625+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\arrow.FBX</Source>
+      <Name>Models\arrow</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>TrianglePickingProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\arrow.xnb</Output>
+      <Time>2007-09-13T08:36:34+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\arrow_0.xml</Key>
+        <Value>2009-04-11T16:37:37.953125+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\hand.FBX</Source>
+      <Name>Models\hand</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\hand.xnb</Output>
+      <Time>2007-08-08T20:59:50+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\hand_0.xml</Key>
+        <Value>2009-04-11T16:37:38.03125+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\stool.FBX</Source>
+      <Name>Models\stool</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\stool.xnb</Output>
+      <Time>2007-08-09T16:36:40+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\stool_0.xml</Key>
+        <Value>2009-04-11T16:37:38.203125+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\table.FBX</Source>
+      <Name>Models\table</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\table.xnb</Output>
+      <Time>2008-04-02T18:43:12+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\table_0.xml</Key>
+        <Value>2009-04-11T16:37:38.421875+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\tableFocus.FBX</Source>
+      <Name>Models\tableFocus</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>TrianglePickingProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\tableFocus.xnb</Output>
+      <Time>2007-08-25T20:46:46+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\tableFocus_0.xml</Key>
+        <Value>2009-04-11T16:37:38.484375+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\card.FBX</Source>
+      <Name>Models\card</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>TrianglePickingProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\card.xnb</Output>
+      <Time>2007-08-16T14:26:16+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\card_0.xml</Key>
+        <Value>2009-04-11T16:37:38.515625+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\face.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\face_0.xml</Output>
+      <Time>2007-08-08T22:07:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\hair_spikes.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\hair_spikes_0.xml</Output>
+      <Time>2007-08-08T22:55:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\arrow.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\arrow_0.xml</Output>
+      <Time>2007-09-13T08:36:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\hand.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\hand_0.xml</Output>
+      <Time>2007-08-08T20:59:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\stool.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\stool_0.xml</Output>
+      <Time>2007-08-09T16:36:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\table.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\table_0.xml</Output>
+      <Time>2008-04-02T18:43:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tableFocus.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\tableFocus_0.xml</Output>
+      <Time>2007-08-25T20:46:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\card.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\card_0.xml</Output>
+      <Time>2007-08-16T14:26:16+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\TrianglePickingPipeline\bin\x86\Release\TrianglePickingPipeline.dll</Key>
+        <Value>2009-04-11T16:37:00.53125+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Archivos de programa\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Archivos de programa\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Archivos de programa\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Archivos de programa\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Archivos de programa\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-04-11T16:11:32.421875+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

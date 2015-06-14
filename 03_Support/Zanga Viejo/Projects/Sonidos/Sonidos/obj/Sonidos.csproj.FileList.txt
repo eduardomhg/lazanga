@@ -1,0 +1,8 @@
+bin\Debug\Sonidos.exe
+bin\Debug\Sonidos.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Sonidos.Form1.resources
+obj\Debug\Sonidos.Properties.Resources.resources
+obj\Debug\Sonidos.csproj.GenerateResource.Cache
+obj\Debug\Sonidos.exe
+obj\Debug\Sonidos.pdb

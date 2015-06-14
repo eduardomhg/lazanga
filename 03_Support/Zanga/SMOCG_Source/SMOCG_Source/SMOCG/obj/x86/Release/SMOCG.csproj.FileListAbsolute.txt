@@ -1,0 +1,210 @@
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\SplashScreens\splashScreen.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\AnimatedTextures\mousePointer.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\AnimatedTextures\mousePointerRed.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Fonts\lettersLarge.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Fonts\lettersSmall.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\AnimatedTextures\flashingTextCursor.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\textBoxBg.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Models\darkWood.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Models\lightWood.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Player\smileyFace.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Models\cards_small.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\AceOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\AceOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\AceOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\AceOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\EightOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\EightOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\EightOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\EightOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FiveOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FiveOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FiveOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FiveOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FourOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FourOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FourOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FourOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\JackOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\JackOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\JackOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\JackOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\KingOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\KingOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\KingOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\KingOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\NineOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\NineOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\NineOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\NineOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\QueenOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\QueenOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\QueenOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\QueenOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SevenOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SevenOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SevenOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SevenOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SixOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SixOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SixOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SixOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TenOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TenOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TenOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TenOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\ThreeOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\ThreeOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\ThreeOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\ThreeOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TwoOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TwoOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TwoOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TwoOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\arrangeCards_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\deal_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\pickup_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\ready_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\resetGame_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\selectSame_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\base_hud.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\log_hud.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Fonts\lettersSmallest.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\base_hud_bg.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\SplashScreens\mainMenuScreen.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\chatTextBoxBg.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\ipTextBoxBg.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\joinLanGame.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\startLanGame.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\connect_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\joinGameBg.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\playIndicator.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\customisePlayer.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\exit_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\left_arrow_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\right_arrow_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\save_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\customiseBg.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\face.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\hair_spikes.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\arrow.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\hand.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\stool.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\table.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\tableFocus.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\card.xnb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\SMOCG.exe.manifest
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\SMOCG.application
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\SMOCG.exe
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\SMOCG.pdb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\obj\x86\Release\SMOCG.exe.manifest
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\obj\x86\Release\SMOCG.application
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\obj\x86\Release\SMOCG.exe
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\SMOCG\obj\x86\Release\SMOCG.pdb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\SplashScreens\splashScreen.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\AnimatedTextures\mousePointer.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\AnimatedTextures\mousePointerRed.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Fonts\lettersLarge.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Fonts\lettersSmall.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\AnimatedTextures\flashingTextCursor.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\textBoxBg.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Models\darkWood.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Models\lightWood.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Player\smileyFace.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Models\cards_small.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\AceOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\AceOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\AceOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\AceOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\EightOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\EightOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\EightOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\EightOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FiveOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FiveOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FiveOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FiveOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FourOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FourOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FourOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\FourOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\JackOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\JackOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\JackOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\JackOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\KingOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\KingOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\KingOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\KingOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\NineOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\NineOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\NineOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\NineOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\QueenOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\QueenOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\QueenOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\QueenOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SevenOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SevenOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SevenOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SevenOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SixOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SixOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SixOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\SixOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TenOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TenOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TenOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TenOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\ThreeOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\ThreeOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\ThreeOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\ThreeOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TwoOfClubs.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TwoOfDiamonds.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TwoOfHearts.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Cards\TwoOfSpades.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\arrangeCards_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\deal_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\pickup_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\ready_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\resetGame_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\selectSame_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\base_hud.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\log_hud.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\Fonts\lettersSmallest.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\base_hud_bg.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\SplashScreens\mainMenuScreen.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\chatTextBoxBg.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\ipTextBoxBg.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\joinLanGame.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\startLanGame.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\connect_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\joinGameBg.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\playIndicator.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\customisePlayer.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\exit_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\left_arrow_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\right_arrow_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\GUI\save_button.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Textures\HUD\customiseBg.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\face.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\hair_spikes.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\arrow.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\hand.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\stool.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\table.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\tableFocus.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\Content\Models\card.xnb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\SMOCG.exe.manifest
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\SMOCG.application
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\SMOCG.exe
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\bin\x86\Release\SMOCG.pdb
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\obj\x86\Release\SMOCG.exe.manifest
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\obj\x86\Release\SMOCG.application
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\obj\x86\Release\SMOCG.exe
+C:\Documents and Settings\Beatriz\Escritorio\MIERDA EDU\Zanga\SMOCG_Source\SMOCG_Source\SMOCG\obj\x86\Release\SMOCG.pdb

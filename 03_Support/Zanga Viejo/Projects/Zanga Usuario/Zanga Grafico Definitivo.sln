@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zanga Grafico Definitivo", "Zanga Grafico Definitivo\Zanga Grafico Definitivo.vcproj", "{8BC403B5-A68C-47FD-9991-074ABF9C9B14}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{ED3EC7DE-820C-4F94-B42A-2C6961C52468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BC403B5-A68C-47FD-9991-074ABF9C9B14}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BC403B5-A68C-47FD-9991-074ABF9C9B14}.Debug|Win32.Build.0 = Debug|Win32
+		{8BC403B5-A68C-47FD-9991-074ABF9C9B14}.Release|Win32.ActiveCfg = Release|Win32
+		{8BC403B5-A68C-47FD-9991-074ABF9C9B14}.Release|Win32.Build.0 = Release|Win32
+		{ED3EC7DE-820C-4F94-B42A-2C6961C52468}.Debug|Win32.ActiveCfg = Debug
+		{ED3EC7DE-820C-4F94-B42A-2C6961C52468}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\TrianglePickingPipeline\bin\x86\Release\TrianglePickingPipeline.dll
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\TrianglePickingPipeline\bin\x86\Release\TrianglePickingPipeline.pdb
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\TrianglePickingPipeline\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\TrianglePickingPipeline\obj\x86\Release\TrianglePickingPipeline.dll
+C:\Documents and Settings\Beatriz\Escritorio\SMOCG_Source\SMOCG_Source\TrianglePickingPipeline\obj\x86\Release\TrianglePickingPipeline.pdb

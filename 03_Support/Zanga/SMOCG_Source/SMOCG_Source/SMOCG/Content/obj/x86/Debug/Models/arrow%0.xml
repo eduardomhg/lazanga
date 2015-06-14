@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>Fbx_Root</Name>
+    <Identity>
+      <SourceFilename>C:\Documents and Settings\damianc\Desktop\downloads\code\SMOCG_Upgraded\SMOCG\Content\Models\arrow.FBX</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 6.123032E-17 -1 0 0 1 6.123032E-17 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>Line01</Name>
+        <Transform>9.99775 0 0 0 0 -2.66256188E-06 9.99775 0 0 -9.99775 -2.66256188E-06 0 0 -3.121177E-05 714.042053 1</Transform>
+        <Positions>19.9955 -71.31948 -2.56583189E-05 19.9955 -11.3330574 1.10623268E-05 39.991 -11.3330574 1.10623268E-05 0 28.65783 3.13344572E-05 -39.991 -11.3330574 1.10623268E-05 -19.9955 -11.3330574 1.10623268E-05 -19.9955 -71.31948 -2.56583189E-05 19.9955 -71.31948 1.99997437 19.9955 -11.3330574 2.000011 39.991 -11.3330574 2.000011 0 28.65783 2.00003123 -39.991 -11.3330574 2.000011 -19.9955 -11.3330574 2.000011 -19.9955 -71.31948 1.99997437</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 3 2 0 5 4 1 2 5 1 7 6 4 5 7 4 9 8 6 7 9 6 11 10 8 9 11 8 13 12 10 11 13 10 3 0 12 13 3 12 8 10 6 4 6 1 6 10 1 1 10 0 10 12 0 11 9 7 7 5 2 11 7 2 11 2 3 13 11 3</Indices>
+            <Vertices>
+              <PositionIndices>0 1 8 7 2 9 3 10 4 11 5 12 6 13</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">2 -0.9999988 -2 1 -1.99999845 -3 2 -1.00000155 3 1 -2.00000143 2 1.41421151 0.414216071 -1 0.707105756 -1.29289269 1 -0.707105756 2.12132478 -3 0.707105756 2.121322 3 -0.707105756 -1.29289174 -1 -1.41421151 0.414215058 1 -2 -0.999997735 -4 -1 -2.00000238 4 -1 -1.9999994 -1 -2 -1.0000006 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>01 - Default  ( Standard )</Name>
+      <Identity>
+        <SourceFilename>C:\Documents and Settings\damianc\Desktop\downloads\code\SMOCG_Upgraded\SMOCG\Content\Models\arrow.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 0 0</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">90</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

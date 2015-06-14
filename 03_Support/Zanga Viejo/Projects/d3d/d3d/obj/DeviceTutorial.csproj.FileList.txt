@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DeviceTutorial.CreateDevice.resources
+obj\Debug\d3d.Properties.Resources.resources
+obj\Debug\DeviceTutorial.csproj.GenerateResource.Cache
+obj\Debug\d3d.exe
+bin\Debug\d3d.exe
+bin\Debug\d3d.pdb
+obj\Debug\d3d.pdb
